@@ -8,7 +8,7 @@ __pycache__/
 # *.db
 # *.xml
 # *.gz
-# *.log
+*.log
 
 # Emacs related stuff
 *~
