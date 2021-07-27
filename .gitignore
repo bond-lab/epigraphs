@@ -5,10 +5,11 @@ __pycache__/
 
 
 # Sqlite, XML, Gzip, Log
-# *.db
+*.db
 # *.xml
 # *.gz
 *.log
+*.xlsx
 
 # Emacs related stuff
 *~
